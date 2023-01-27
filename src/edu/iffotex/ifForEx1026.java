@@ -15,7 +15,7 @@ public class ifForEx1026 {
 		else { 
 			System.out.printf("a=%d는 0입니다\n", a);
 		}
-
+        //실험용 변화
 		//학점 판별 문제
 		Scanner sc = new Scanner(System.in);
 		System.out.print("JAVA점수(0~100)입력 :");
@@ -23,6 +23,11 @@ public class ifForEx1026 {
 		
 		if(90<= score && score <=100)
 		{ 
+			if(score >= 95)
+			{
+			System.out.printf("최우수학생");
+			}
+				
 			System.out.printf("A학점");
 		}
 		else if(80 <= score && score <= 89) {
