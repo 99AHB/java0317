@@ -1,5 +1,5 @@
 package exscanner;
-//실험대사
+//실험대사 삼색
 
 import java.util.Scanner;
 
