@@ -1,5 +1,5 @@
 package exscanner;
-
+//실험대사
 
 import java.util.Scanner;
 
